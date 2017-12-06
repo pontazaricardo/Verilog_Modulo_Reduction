@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "C:/Xilinx_workspace/GitHub/Reduction_in_modulo/Modulo/ReductionModulo.xst" -ofn "C:/Xilinx_workspace/GitHub/Reduction_in_modulo/Modulo/ReductionModulo.syr" 
