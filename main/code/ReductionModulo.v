@@ -32,11 +32,11 @@ integer i;
 always @(number or m)
 begin
 	result = number;
-	for(i=0;i<100;i=i+1)
+	for(i=0;i<101;i=i+1)
 	begin
 		if(result < m)
 			begin
-				i=100;
+				i=101;
 			end
 		else
 			begin
