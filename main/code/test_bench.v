@@ -40,7 +40,7 @@ module test_bench;
 
 	initial begin
 		// Initialize Inputs
-		number = 10;
+		number = 13;
 		m = 3;
 
 		// Wait 100 ns for global reset to finish
